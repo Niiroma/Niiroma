@@ -6,11 +6,15 @@
 
 #include <stdio.h>
 
-int main() {
+int main( ) {
 
-printf ("*`Hello World!`*\n")
+printf ("*`Hello World!`*\n");
 
 }
+
+<br/>
+
+---
 
 Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Catarina. Atualmente, estou estudando algoritmos. Sou apaixonado por tecnologia e Games.
 
@@ -59,9 +63,9 @@ Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Cat
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
