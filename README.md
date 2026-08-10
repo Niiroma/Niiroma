@@ -2,7 +2,15 @@
 
 **`Estudante de Engenharia da Computação`**
 
-Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Catarina. Atualmente, estou estudando algoritmos. Sou apaixonado por tecnologia e games.
+<font color="#006eff">#include</font> <font color="#13a000"><stdio.h></font>
+
+<font color="#b643c5">int</font> <font color="#f1f371">main( ) {</font>
+
+<font color="#f1f371">printf</font> <font color="#b643c5">(</font><font color="#13a000">"Hello World!</font><font color="#b643c5">\n</font></font><font color="#13a000">"</font><font color="#b643c5">)</font>;
+
+<font color="#f1f371">}</font>
+
+Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Catarina. Atualmente, estou estudando algoritmos. Sou apaixonado por tecnologia e Games.
 
 <p align="left">
     <a href="https://github.com/Niiroma?tab=repositories&sort=stargazers">
