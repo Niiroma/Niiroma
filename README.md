@@ -6,7 +6,7 @@
 
 <font color="#b643c5">int</font> <font color="#f1f371">main( ) {</font>
 
-<font color="#f1f371">printf</font> <font color="#b643c5">(</font><font color="#13a000">"Hello World!</font><font color="#b643c5">\n</font></font><font color="#13a000">"</font><font color="#b643c5">)</font>;
+<font color="#f1f371">printf</font> <font color="#b643c5">(</font><font color="#13a000">"`Hello World!`</font><font color="#b643c5">\n</font></font><font color="#13a000">"</font><font color="#b643c5">)</font>;
 
 <font color="#f1f371">}</font>
 
