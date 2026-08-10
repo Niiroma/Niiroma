@@ -2,13 +2,15 @@
 
 **`Estudante de Engenharia da Computação`**
 
-<font color="#006eff">#include</font> <font color="#13a000"><stdio.h></font>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=40&pause=1000&color=FFFFFF&width=500&height=100&lines=coding+.+.+.)](https://git.io/typing-svg)
 
-<font color="#b643c5">int</font> <font color="#f1f371">main( ) {</font>
+#include <stdio.h>
 
-<font color="#f1f371">printf</font> <font color="#b643c5">(</font><font color="#13a000">"`Hello World!`</font><font color="#b643c5">\n</font></font><font color="#13a000">"</font><font color="#b643c5">)</font>;
+int main() {
 
-<font color="#f1f371">}</font>
+printf ("*`Hello World!`*\n")
+
+}
 
 Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Catarina. Atualmente, estou estudando algoritmos. Sou apaixonado por tecnologia e Games.
 
