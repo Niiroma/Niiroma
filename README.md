@@ -87,3 +87,5 @@ Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Cat
   />
 
 </p>
+
+![Snake animation](https://github.com/Niiroma/Niiroma/blob/output/github-contribution-grid-snake.svg
