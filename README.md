@@ -47,6 +47,22 @@ Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Cat
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JS"
+    title="JS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
 <img
     aling="left"
     alt="C"
@@ -88,4 +104,4 @@ Me chamo Paulo Roberto Amorin Laureano, tenho 26 anos e sou natural de Santa Cat
 
 </p>
 
-![Snake animation](https://github.com/Niiroma/Niiroma/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Niiroma/Niiroma/blob/output/github-contribution-grid-snake.svg)
